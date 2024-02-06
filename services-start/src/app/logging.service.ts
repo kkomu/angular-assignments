@@ -1,3 +1,4 @@
+// @Injectable can be omitted when nothing is injected to this service
 export class LoggingService {
   constructor() {}
 
